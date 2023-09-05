@@ -1,10 +1,11 @@
 #!/usr/bin/python3
-"""Island perimeter computing module.
+"""Island perimeter 
+alx interview  prep  -  grid  island perimeter
 """
 
 
 def island_perimeter(grid):
-    """Computes the perimeter of an island with no lakes.
+    """Computes the perimeter of an island .
     """
     perimeter = 0
     if type(grid) != list:
